@@ -1,4 +1,4 @@
-# 🧠 AI Resume Screening System
+# 🧠 SmartHireAI
 
 An AI-powered HR Recruitment Platform that parses resumes, compares them against a job
 description using NLP and a rule-based expert system, ranks candidates, and generates
